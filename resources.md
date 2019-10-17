@@ -17,6 +17,8 @@ JS:
 
 --https://www.youtube.com/watch?v=XzdhzyAukMM
 --https://www.typescriptlang.org/docs/home.html
+--https://alligator.io/js/filter-array-method/#targetText=The%20item%20argument%20is%20a,sent%20to%20the%20new%20array
+--https://www.youtube.com/watch?v=rRgD1yVwIvE&t=2s
 
 Anguar:
 
