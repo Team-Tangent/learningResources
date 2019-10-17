@@ -4,7 +4,6 @@ Markdown
 Html5
 
 --https://scotch.io/bar-talk/8-emmet-tips-you-might-not-know
-
 --https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form
 
 CSS:
@@ -20,20 +19,20 @@ JS:
 --https://alligator.io/js/filter-array-method/#targetText=The%20item%20argument%20is%20a,sent%20to%20the%20new%20array
 --https://www.youtube.com/watch?v=rRgD1yVwIvE&t=2s
 --https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
+--https://www.youtube.com/watch?v=vDJpGenyHaA
 
 Anguar:
 
 --https://angular.io/start
+--https://www.youtube.com/watch?v=Fdf5aTYRW0E&t=284s
 
 C#:
 
 Dotnet Core:
+
 --https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio
-
 --https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-2.2
-
 --ttps://www.youtube.com/watch?v=IKD2-MAkXyQ
-
 --https://www.youtube.com/watch?v=pCvZtjoRq1I
 
 MS SQL Server:
