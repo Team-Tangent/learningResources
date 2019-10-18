@@ -20,6 +20,9 @@ JS:
 --https://www.youtube.com/watch?v=rRgD1yVwIvE&t=2s
 --https://www.youtube.com/watch?v=2LeqilIw-28&list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv
 --https://www.youtube.com/watch?v=vDJpGenyHaA
+--https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082
+--https://fireship.io/lessons/ts-decorators-by-example/
+--https://levelup.gitconnected.com/typescript-object-oriented-concepts-in-a-nutshell-cb2fdeeffe6e
 
 Anguar:
 
