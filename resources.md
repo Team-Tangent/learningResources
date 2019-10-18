@@ -35,7 +35,7 @@ Dotnet Core:
 
 --https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio
 --https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-2.2
---ttps://www.youtube.com/watch?v=IKD2-MAkXyQ
+--https://www.youtube.com/watch?v=IKD2-MAkXyQ
 --https://www.youtube.com/watch?v=pCvZtjoRq1I
 
 MS SQL Server:
