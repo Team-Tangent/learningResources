@@ -23,11 +23,22 @@ JS:
 --https://medium.com/iqoqo-engineering/understand-typescript-decorators-in-5-minutes-26ffc6189082
 --https://fireship.io/lessons/ts-decorators-by-example/
 --https://levelup.gitconnected.com/typescript-object-oriented-concepts-in-a-nutshell-cb2fdeeffe6e
+--https://scotch.io/tutorials/javascript-ternary-operators
+--https://scotch.io/tutorials/es6-arrow-functions-in-javascript-getting-started
+--https://scotch.io/tutorials/building-customizable-product-galleries-for-ecommerce
+--https://scotch.io/tutorials/coding-exercise-build-javascript-array-methods-from-scratch
+--https://scotch.io/tutorials/4-uses-of-javascripts-arraymap-you-should-know
+--https://scotch.io/tutorials/these-2-unpopular-functions-will-improve-how-you-manipulate-javascript-array-data
+--https://scotch.io/tutorials/why-this-in-javascript
 
 Anguar:
 
 --https://angular.io/start
 --https://www.youtube.com/watch?v=Fdf5aTYRW0E&t=284s
+--https://scotch.io/tutorials/detect-responsive-screen-sizes-in-angular
+--https://scotch.io/tutorials/mvc-in-an-angular-world
+--https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
+--https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1
 
 C#:
 
