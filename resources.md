@@ -1,4 +1,5 @@
 Markdown
+
 --https://www.markdowntutorial.com
 
 Html5
@@ -14,6 +15,7 @@ CSS:
 
 JS:
 
+--https://jskatas.org/
 --https://www.youtube.com/watch?v=XzdhzyAukMM
 --https://www.typescriptlang.org/docs/home.html
 --https://alligator.io/js/filter-array-method/#targetText=The%20item%20argument%20is%20a,sent%20to%20the%20new%20array
@@ -37,8 +39,12 @@ Anguar:
 --https://www.youtube.com/watch?v=Fdf5aTYRW0E&t=284s
 --https://scotch.io/tutorials/detect-responsive-screen-sizes-in-angular
 --https://scotch.io/tutorials/mvc-in-an-angular-world
---https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
 --https://scotch.io/tutorials/testing-angular-with-jasmine-and-karma-part-1
+
+rxjs:
+
+--https://hackernoon.com/using-rxjs-to-handle-http-requests-what-ive-learned-4640aaf4646c
+--https://scotch.io/tutorials/rxjs-operators-for-dummies-forkjoin-zip-combinelatest-withlatestfrom
 
 C#:
 
@@ -52,6 +58,7 @@ Dotnet Core:
 MS SQL Server:
 
 Getting Dotnet Core to work on Mac:
+
 --https://medium.com/@RobertKhou/getting-started-with-entity-framework-core-postgresql-c6fa09681624
 --https://github.com/Microsoft/azuredatastudio
 --https://blogs.msdn.microsoft.com/bobsql/2018/04/24/take-the-sql-server-mac-challenge/
