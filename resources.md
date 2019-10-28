@@ -80,3 +80,6 @@ Git:
 Docker:
 
 --https://docs.docker.com/engine/reference/commandline/start/
+
+Visual Studio Code
+--https://scotch.io/tutorials/code-formatting-with-prettier-in-visual-studio-code
