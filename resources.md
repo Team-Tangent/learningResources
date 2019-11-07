@@ -32,6 +32,15 @@ JS:
 --https://scotch.io/tutorials/4-uses-of-javascripts-arraymap-you-should-know
 --https://scotch.io/tutorials/these-2-unpopular-functions-will-improve-how-you-manipulate-javascript-array-data
 --https://scotch.io/tutorials/why-this-in-javascript
+--https://www.youtube.com/watch?v=Q-BpqyOT3a8&t=477s
+--https://www.youtube.com/watch?v=PoRJizFvM7s&t=59s
+--https://www.youtube.com/watch?v=Xal65C7pxVM
+--https://javascript.info/rest-parameters-spread-operator
+--https://flaviocopes.com/javascript-spread-operator/
+--https://codeburst.io/a-simple-guide-to-destructuring-and-es6-spread-operator-e02212af5831
+--https://davidwalsh.name/spread-operator
+--https://scotch.io/bar-talk/javascripts-three-dots-spread-vs-rest-operators543
+--https://scotch.io/tutorials/closures-and-currying-in-javascript
 
 Anguar:
 
@@ -54,6 +63,7 @@ Dotnet Core:
 --https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/?view=aspnetcore-2.2
 --https://www.youtube.com/watch?v=IKD2-MAkXyQ
 --https://www.youtube.com/watch?v=pCvZtjoRq1I
+--freecodecamp.org/news/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28/
 
 MS SQL Server:
 
@@ -83,3 +93,10 @@ Docker:
 
 Visual Studio Code
 --https://scotch.io/tutorials/code-formatting-with-prettier-in-visual-studio-code
+
+Testing(Angular):
+
+--https://angular.io/guide/testing
+--http://karma-runner.github.io/2.0/intro/how-it-works.html
+--http://www.protractortest.org/#/
+--https://jasmine.github.io/
